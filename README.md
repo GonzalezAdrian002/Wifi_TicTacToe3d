@@ -1,7 +1,3 @@
-¡Claro\! Un buen archivo `README.md` es esencial para tu proyecto, especialmente para explicarle al profesor y a otros cómo usar las dos modalidades de juego (100% WAN y 75% WiFi/LAN).
-
-Aquí tienes un borrador estructurado en formato Markdown.
-
 ````markdown
 # 🎲 TicTacToe 3D (4x4x4) - Cliente Python & Servidor Node.js
 
@@ -96,4 +92,5 @@ node server.js
 <!-- end list -->
 
 ```
+
 ```
